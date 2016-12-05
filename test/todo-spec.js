@@ -18,7 +18,7 @@ describe('Todo', function() {
     })
 
     afterEach(function() {
-        // document.body.removeChild(container)
+        document.body.removeChild(container)
     })
 
     it('should initialize with an input box and an "add" button', function() {
