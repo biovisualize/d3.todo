@@ -1,0 +1,7 @@
+{
+  "name": "d3.todo",
+  "version": "0.1.0",
+  "description": "A to-do list exercise in D3v4",
+  "author": "Christophe Viau",
+  "license": "ISC"
+}
